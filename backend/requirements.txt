@@ -1,0 +1,6 @@
+flask
+opencv-python
+tensorflow
+pillow
+exif
+deepface  # If using
